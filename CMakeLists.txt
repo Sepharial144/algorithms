@@ -10,7 +10,7 @@ add_custom_algorithm(source)
 add_custom_algorithm(another)
 
 
-# make isntallation folder
+# make installation folder
 #install(TARGETS ${PROJECT_NAME}
 #        CONFIGURATIONS Debug
 #        ARCHIVE DESTINATION "debug/algorithms/lib"
