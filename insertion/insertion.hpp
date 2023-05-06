@@ -4,8 +4,6 @@
 #include <algorithm>
 #include <vector>
 
-void 
-
 void insertionSort(std::vector<int>& v)
 {
     for(size_t i = 1; i < v.size(); ++i)     

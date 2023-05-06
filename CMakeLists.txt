@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD 17)
 include(algorithms.cmake)
 
 add_custom_algorithm(insertion)
+add_custom_algorithm(selection)
 
 
 # make installation folder
