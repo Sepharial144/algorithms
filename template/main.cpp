@@ -2,6 +2,6 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Algorithms compilation" << &std::endl;
+    std::cout << "Algorithms template" << &std::endl;
     return 0;
 }

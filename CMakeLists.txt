@@ -1,12 +1,11 @@
 cmake_minimum_required (VERSION 3.20)
 
-project("algorithms" DESCRIPTION "Algorithms compilation" LANGUAGES CXX)
+project("algorithms" DESCRIPTION "Algorithms compilation, data structures and patterns" LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 
 include(algorithms.cmake)
 
-add_custom_algorithm(source)
 add_custom_algorithm(another)
 
 
