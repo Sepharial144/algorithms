@@ -1,2 +1,2 @@
-# algorithms
-Algorithms
+# Algorithms and Data structures
+Algorithms compilation
